@@ -1,4 +1,6 @@
-LINK FOR APP: task-managerappp.netlify.app
+LINK FOR APP: https://task-managerappp.netlify.app/
+SCREENSHOT: https://github.com/PLP-MERN-Stack-Development/react-js-jsx-and-css-mastering-front-end-development-WILLY070/blob/main/Screenshot%202025-10-27%20112236.png
+
 📝 React Task App
 
 A simple and modern task management web app built with React + Vite + Tailwind CSS.
